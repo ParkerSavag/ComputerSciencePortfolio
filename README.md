@@ -1,2 +1,2 @@
-# compscience
+# Computer Science
 Create Task
