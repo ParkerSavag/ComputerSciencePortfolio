@@ -1,4 +1,3 @@
 # Computer Science
-This is where I will, or could, put my Create Task.
-Even though we aren't supposed to be pulishing it online.
+This is where I will put my Create Task.
  
